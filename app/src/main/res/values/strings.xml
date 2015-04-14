@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Microsillon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="albumlabel">"Album : "</string>
+    <string name="artistelabel">"Artiste : "</string>
+    <string name="genrelabel">"Genre : "</string>
+    <string name="prixlabel">"Prix : "</string>
+    <string name="detailslabel">"Details : "</string>dummy_content
+    <string name="dummy_content"></string>
+</resources>
